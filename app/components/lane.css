@@ -1,0 +1,11 @@
+.lane-header {
+  overflow: auto;
+
+  padding: 1em;
+
+  color: #fff;
+  background-color: #000;
+
+  border-top-left-radius: 0.5em;
+  border-top-right-radius: 0.5em;
+}
